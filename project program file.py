@@ -1,0 +1,22 @@
+#program file
+from project import*
+a.speed(0)
+turtle.bgcolor("lightcyan")
+
+light(10,"chocolate")
+dark(10,"saddlebrown")
+lightB(10,"tan")
+yellow(10,"gold")
+whitish(10,"oldlace")
+redish(10,"crimson")
+orange(10,"darkorange")
+black(10,"black")
+darkR(10,"darkred")
+darkpink(10,"palevioletred")
+medpink(10,"mediumvioletred")
+hotpink(10,"hotpink")
+lightishpink(10,"pink")
+lightpink(10,"lavenderblush")
+white(10,"white")
+blue(10,"lightblue")
+darkblue(10,"slateblue")
